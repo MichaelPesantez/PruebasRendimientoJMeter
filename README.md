@@ -1,5 +1,5 @@
 # SCRIP DE PRUEBAS DE CARGA
-## PRUEBAS DE RENDIMIENTO UTILZIANDO LA HERRAMIENTA JMETER
+## PRUEBAS DE RENDIMIENTO UTILIZANDO LA HERRAMIENTA JMETER
 ### Autor: Michal Pesantez
 ## Prerequisitos
 - Maquina Local con sistema operativo Windows 11 64 bits
